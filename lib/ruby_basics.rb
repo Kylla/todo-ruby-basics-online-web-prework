@@ -15,7 +15,7 @@ greeting
 end
 
 def return_a_value("Nice")
-  return_a_value
+  puts return_a_value
 
 end
 
