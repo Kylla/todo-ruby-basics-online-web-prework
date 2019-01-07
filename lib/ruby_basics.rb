@@ -13,7 +13,7 @@ end
 def greeting(greeting, name)
 greeting
 end
-
+gretting("Hi")
 def return_a_value
   return_a_value = "Nice"
 
